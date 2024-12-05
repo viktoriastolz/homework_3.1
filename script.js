@@ -1,3 +1,5 @@
+"use strict";
+
 console.log(typeof "Hello"); // string
 console.log(typeof 29); // number
 console.log(typeof true); // boolean
